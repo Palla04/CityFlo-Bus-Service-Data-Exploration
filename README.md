@@ -458,20 +458,20 @@ The dashboard displays:
 
 ## Revenue and Trip Volume per Month
 
-  Month         Net Revenue   Trips
-  ----------- ------------- -------
-  January            ₹72.0K     262
-  February           ₹64.9K     242
-  March              ₹79.2K     299
-  April              ₹80.4K     278
-  May                ₹67.2K     255
-  June               ₹65.7K     252
-  July               ₹71.9K     279
-  August             ₹74.3K     275
-  September          ₹65.7K     251
-  October            ₹72.6K     265
-  November           ₹79.4K     296
-  December           ₹66.5K     246
+| Month | Net Revenue | Trips |
+|---|---:|---:|
+| **January** | ₹72.0K | 262 |
+| **February** | ₹64.9K | 242 |
+| **March** | ₹79.2K | 299 |
+| **April** | ₹80.4K | 278 |
+| **May** | ₹67.2K | 255 |
+| **June** | ₹65.7K | 252 |
+| **July** | ₹71.9K | 279 |
+| **August** | ₹74.3K | 275 |
+| **September** | ₹65.7K | 251 |
+| **October** | ₹72.6K | 265 |
+| **November** | ₹79.4K | 296 |
+| **December** | ₹66.5K | 246 |
 
 ### Key Observations
 
@@ -505,14 +505,14 @@ improvement.
 
 Approximate complaint-rate observations shown in the dashboard include:
 
-  City          Complaint Rate
-  ----------- ----------------
-  Bangalore               6.9%
-  Hyderabad               6.7%
-  Delhi NCR               6.9%
-  Pune                    6.3%
-  Chennai                 5.8%
-  Mumbai                  5.8%
+| City | Complaint Rate |
+|---|---:|
+| **Bangalore** | 6.9% |
+| **Hyderabad** | 6.7% |
+| **Delhi NCR** | 6.9% |
+| **Pune** | 6.3% |
+| **Chennai** | 5.8% |
+| **Mumbai** | 5.8% |
 
 Bangalore and Delhi NCR show relatively higher complaint rates in the
 displayed analysis, while Mumbai and Chennai are comparatively lower.
@@ -523,17 +523,17 @@ The table highlights the **highest trip-volume combinations of weekdays
 and cities**, helping identify periods of higher demand across different
 locations.
 
-  Rank   Weekday      City          Total Trips
-  -----  -----------  ------------  -----------
-  1      Tuesday      Pune                106
-  2      Monday       Mumbai               97
-  3      Tuesday      Hyderabad            92
-  4      Friday       Pune                 92
-  5      Wednesday    Delhi NCR            89
-  6      Friday       Mumbai               89
-  7      Thursday     Pune                 89
-  8      Thursday     Delhi NCR            87
-  9      Monday       Chennai              86
+| Rank | Weekday | City | Total Trips |
+|---:|---|---|---:|
+| **1** | Tuesday | Pune | 106 |
+| **2** | Monday | Mumbai | 97 |
+| **3** | Tuesday | Hyderabad | 92 |
+| **4** | Friday | Pune | 92 |
+| **5** | Wednesday | Delhi NCR | 89 |
+| **6** | Friday | Mumbai | 89 |
+| **7** | Thursday | Pune | 89 |
+| **8** | Thursday | Delhi NCR | 87 |
+| **9** | Monday | Chennai | 86 |
 
 
 ------------------------------------------------------------------------
@@ -552,26 +552,26 @@ performance, booking conversion, fare patterns, and payment methods**.
 The bar chart compares the **total number of trips across the six
 cities**.
 
-  City          Total Trips
-  ------------  -----------
-  Bangalore          535
-  Chennai            517
-  Delhi NCR          537
-  Hyderabad          506
-  Mumbai             553
-  Pune               552
+| City | Total Trips |
+|---|---:|
+| **Bangalore** | 535 |
+| **Chennai** | 517 |
+| **Delhi NCR** | 537 |
+| **Hyderabad** | 506 |
+| **Mumbai** | 553 |
+| **Pune** | 552 |
 
 ## Booking Conversion Funnel
 
 The funnel chart represents the distribution of trips across different
 booking outcomes.
 
-  Trip Status           Trips
-  --------------------  -----
-  Completed             2,111
-  Delayed-Completed       383
-  Cancelled               373
-  No-show                 333
+| Trip Status | Trips |
+|---|---:|
+| **Completed** | 2,111 |
+| **Delayed-Completed** | 383 |
+| **Cancelled** | 373 |
+| **No-show** | 333 |
 
 The funnel provides a clear view of how trips progress through different
 outcomes, from successful completion to cancellations and no-shows.
@@ -592,14 +592,14 @@ distance increases and highlights variations and outliers in pricing.
 
 The donut chart shows the distribution of trips by **payment method**.
 
-  Payment Method   Share
-  ---------------  -----
-  Wallet           17.4%
-  UPI              17.2%
-  Net Banking      15.5%
-  Debit Card       16.9%
-  Credit Card      16.5%
-  Cash             16.5%
+| Payment Method | Share |
+|---|---:|
+| **Wallet** | 17.4% |
+| **UPI** | 17.2% |
+| **Net Banking** | 15.5% |
+| **Debit Card** | 16.9% |
+| **Credit Card** | 16.5% |
+| **Cash** | 16.5% |
 
 The chart provides an overview of the different payment methods used by
 customers across the CityFlo service.
