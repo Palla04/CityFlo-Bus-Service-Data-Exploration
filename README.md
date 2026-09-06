@@ -269,14 +269,14 @@ The analysis used:
 
 ### Key Descriptive Statistics
 
-  Metric              Mean     Median
-  ------------- ---------- ----------
-  Age                29.45      29.00
-  Distance        24.74 km   25.70 km
-  Fare             ₹317.68    ₹311.00
-  Delay           5.21 min   0.00 min
-  Occupancy         57.86%     57.90%
-  Net Revenue      ₹304.08    ₹300.00
+| Metric | Mean | Median |
+|---|---:|---:|
+| **Age** | 29.45 | 29.00 |
+| **Distance** | 24.74 km | 25.70 km |
+| **Fare** | ₹317.68 | ₹311.00 |
+| **Delay** | 5.21 min | 0.00 min |
+| **Occupancy** | 57.86% | 57.90% |
+| **Net Revenue** | ₹304.08 | ₹300.00 |
 
 The delay distribution is strongly right-skewed because a large number
 of trips have little or no delay while a smaller number experience
