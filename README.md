@@ -104,28 +104,13 @@ The dataset includes:
 
 The project follows a structured **23-step EDA checklist**.
 
-  ------------------------------------------------------------------------
-  Phase                                        Steps Purpose
-  --------------------- ---------------------------- ---------------------
-  **Phase 1 ---                                 1--8 Understand structure,
-  Inspect**                                          data types, quality,
-                                                     duplicates and
-                                                     missing values
+| Phase | Steps | Purpose |
+|---|---:|---|
+| **Phase 1 — Inspect** | 1–8 | Understand data structure, types, quality, duplicates, and missing values |
+| **Phase 2 — Clean & Prepare** | 9–17 | Standardize, clean, transform, and prepare the data for analysis |
+| **Phase 3 — Analyze** | 18–21 | Perform univariate, bivariate, multivariate, and statistical analysis |
+| **Phase 4 — Report** | 22–23 | Define KPIs and create dashboard-ready visualizations |
 
-  **Phase 2 --- Clean &                        9--17 Standardize, clean,
-  Prepare**                                          transform and prepare
-                                                     analytical data
-
-  **Phase 3 ---                               18--21 Perform univariate,
-  Analyze**                                          bivariate,
-                                                     multivariate and
-                                                     statistical analysis
-
-  **Phase 4 ---                               22--23 Define KPIs and
-  Report**                                           convert findings into
-                                                     dashboard-ready
-                                                     visuals
-  ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
