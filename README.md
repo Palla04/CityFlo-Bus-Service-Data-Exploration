@@ -53,17 +53,17 @@ The primary objective is to understand:
 
 ## Raw Dataset
 
-  Attribute                     Value
-  --------------------------- -------
-  Raw rows                      3,258
-  Raw columns                      36
-  Duplicate rows identified        58
-  Final unique trip records     3,200
-  Cities                            6
-  Routes                           60
-  Bus types                         4
-  Unique customers              1,251
-  Analysis period                2024
+| Attribute | Value |
+|---|---:|
+| **Raw rows** | 3,258 |
+| **Raw columns** | 36 |
+| **Duplicate rows identified** | 58 |
+| **Final unique trip records** | 3,200 |
+| **Cities** | 6 |
+| **Routes** | 60 |
+| **Bus types** | 4 |
+| **Unique customers** | 1,251 |
+| **Analysis period** | 2024 |
 
 ### Cities Covered
 
