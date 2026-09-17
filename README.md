@@ -32,12 +32,16 @@ Contains the four dashboard visualizations and the exported dashboard report:
 - `Dashboard_4_Pricing_Occupancy_Analysis.jpg`
 - `Cityflo Bus Service Data Analysis Dashboard.pdf`
 
+---
+
 ### Other Project Files
 
 - `.gitignore` — Git ignored files and folders
 - `LICENSE` — Project license
 - `requirements.txt` — Python dependencies
 - `README.md` — Project documentation
+
+---
 
 ## Data Cleaning Process
 
@@ -62,6 +66,8 @@ The cleaning process included:
 - Defining a trip as delayed when `delay_minutes > 5`.
 
 After cleaning, the analytical dataset contained **3,200 unique trip records**.
+
+---
 
 ## Data Analysis (.ipynb)
 
@@ -90,6 +96,8 @@ The analysis includes:
 - Hypothesis testing
 - KPI calculation
 
+---
+
 ### Statistical Tests
 
 The notebook includes:
@@ -98,6 +106,8 @@ The notebook includes:
 2. **Independent t-test** — Peak vs Non-Peak Delay
 3. **One-Way ANOVA** — Fare by Bus Type
 4. **Chi-Square Test** — City vs Trip Status
+
+---
 
 ## Live Dashboard & Visuals
 
@@ -154,6 +164,8 @@ Focuses on:
 - Occupancy vs average fare
 - City-level pricing and utilization
 
+---
+
 ## Dataset Summary
 
 | Attribute | Value |
@@ -173,11 +185,15 @@ Focuses on:
 
 **Main data domains:** Trips, customers, routes, fares, discounts, payments, booking channels, trip status, cancellations, ratings, occupancy, weather, peak-hour indicators, subscriptions, GPS availability, and complaints.
 
+---
+
 ## Method
 
 The project uses Python-based data analysis and preprocessing with **Pandas, NumPy, Matplotlib, Seaborn, and SciPy**, supported by Microsoft Excel for cleaned-data handling and validation. The cleaned data was explored through descriptive statistics and visual analysis, followed by statistical hypothesis testing and KPI development. The resulting analytical outputs were transformed into four interactive dashboards using **Looker Studio**.
 
 **Notebook:** [Open the analysis notebook](https://www.kaggle.com/code/biswas2022/cityflo-data-exploration)
+
+---
 
 ### Key KPIs
 
@@ -192,6 +208,8 @@ The project uses Python-based data analysis and preprocessing with **Pandas, Num
 | Average Rating | 3.80 / 5 |
 | Average Occupancy | 57.86% |
 | Complaint Rate | 6.41% |
+
+---
 
 ## Recommendations
 
@@ -229,6 +247,8 @@ Evaluate capacity, route coverage, and revenue opportunities.
 **Evidence:** Average rating is **3.80/5** and complaint rate is **6.41%**.
 
 Analyze complaints against delays, route reliability, bus quality, and booking experience.
+
+---
 
 ## Limitations
 
@@ -276,7 +296,7 @@ Analyze complaints against delays, route reliability, bus quality, and booking e
 **Pallabi Biswas**  
 - B.Tech CSE
 - **Contact:** pallabibiswas4002@gmail.com
-- **GitHub:** `[https://github.com/Palla04]`
-- **LinkedIn:** `[https://www.linkedin.com/in/pallabi-biswas-26151a255/]`
+- **GitHub:** [Palla04](https://github.com/Palla04)
+- **LinkedIn:** [Pallabi Biswas](https://www.linkedin.com/in/pallabi-biswas-26151a255/)
 
 ---
